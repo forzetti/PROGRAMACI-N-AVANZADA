@@ -1,0 +1,4 @@
+RECIBO
+Nombre: pepito
+Id: 1023
+Celular: 3143828542
